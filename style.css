@@ -1,0 +1,38 @@
+.profilePic {
+    width: 200px; /* Set the desired width */
+    height: 200px; /* Set the desired height */
+    border-radius: 50%; /* Make the border-radius 50% to create a circular shape */
+    object-fit: cover; /* Maintain the aspect ratio and cover the container */
+    margin-left: 50px;
+}
+
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.profile-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+  /* .profile-name {
+    margin-top: 10px;
+    font-size: 18px;
+  } */
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 20px;
+    align-items: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+  }
