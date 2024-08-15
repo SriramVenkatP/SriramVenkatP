@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sriram Venkat P</h1>
 <h3 align="center">An aspiring student from India</h3>
 
-- 🔭 I’m currently working on **Unannounced Game title**
+- 🔭 I’m currently working on **Project "SkyAssist"**
 
-- 🌱 I’m currently learning **HTML,CSS,js**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://lnkd.in/ghkBAVe4](https://lnkd.in/ghkBAVe4)
-
-- 📫 How to reach me **211501105@rajalakshmi.edu.in**
+- 📫 How to reach me **sriramvenkatp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
